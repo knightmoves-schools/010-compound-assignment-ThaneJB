@@ -1,4 +1,4 @@
-﻿namespace knightmoves;
+namespace knightmoves;
 public class Calculator
 {
     public int Addition = 50;
@@ -8,7 +8,7 @@ public class Calculator
 
     public void Calculate(){
         // Add your code here
-         int Addition += 5;
+        int Addition += 5;
 
         int Subtraction -= 1;
 
